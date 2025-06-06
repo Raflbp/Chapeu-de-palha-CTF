@@ -1,4 +1,4 @@
-# 💡 XOR Starter
+#  Aprendendo!
 
 > Autor: @Ralfbp
 
