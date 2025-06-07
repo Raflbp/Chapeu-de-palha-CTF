@@ -38,6 +38,6 @@ flag{aprendendo}
 
 ## ✅ Conclusão
 
-Este desafio serve como introdução ao formato das flags do Cryptohack. É simples, mas essencial para entender a estrutura das respostas nos desafios subsequentes.
+Este desafio serve como introdução ao formato das flags . É simples, mas essencial para entender a estrutura das respostas nos desafios subsequentes.
 
 > ⚡ A flag final é: **flag{aprendendo}**
