@@ -57,15 +57,6 @@
 [![Captura-de-tela-2025-06-06-172824.png](https://i.postimg.cc/QCZykStx/Captura-de-tela-2025-06-06-172824.png)](https://postimg.cc/jwvcRHPG)
 
 * Utilizaremos o Brute Force do hydra para tentar conseguir a senha
-
-* Para isso é nescessario se tornar o usuario root do kali
-
-```
-   Comando para se tornar usuario root: sudo su
-```
-
-[![Captura-de-tela-2025-06-06-173412.png](https://i.postimg.cc/KjvQGWpV/Captura-de-tela-2025-06-06-173412.png)](https://postimg.cc/BLk2Nm0c)
-
 * Usando o comando para o teste de **Brute force**
 
 ```
