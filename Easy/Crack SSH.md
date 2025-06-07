@@ -78,6 +78,8 @@
    ssh john@ctf.chapeudepalhahacker.club -p 3342
 ```
 
+* E colocando a senha encontrada anteriomente
+
 [![Captura-de-tela-2025-06-06-235905.png](https://i.postimg.cc/gjQqz6yf/Captura-de-tela-2025-06-06-235905.png)](https://postimg.cc/YLNm80s3)
 
 * Com isso você encontrou a sua flag
