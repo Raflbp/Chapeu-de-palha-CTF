@@ -16,7 +16,7 @@
 
 [![Captura de tela](https://i.postimg.cc/vHXYdpZv/Captura-de-tela-2025-06-06-132537.png)](https://postimg.cc/vcgFr291)
 
-O desafio introdutório demonstra como as flags são entregues e formatadas ao longo do curso.
+O desafio introdutório demonstra como as flags são entregues e formatadas ao longo do desafio.
 
 A flag segue o seguinte padrão:
 
